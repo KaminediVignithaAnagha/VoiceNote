@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+# environment variables — NEVER commit this, it holds your API key
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# logs
+npm-debug.log*
+
+# editor
+.DS_Store
